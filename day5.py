@@ -33,13 +33,13 @@ if __name__ == "__main__":
     root.title("Colds Consequences")
     root.geometry("987x372")
 
-   
+   #IMAGE WILL NOT WORK SINCE YOUR PC MAY NOT HAVE THE IMAGE I HAVE. DOWNLOAD A "PNG" FILE AND FEED ITS LOCATION HERE
     bg_image = PhotoImage(file=r'C:\icons\sf.png') 
 
   
     bg_label = tk.Label(root, image=bg_image)
     bg_label.place(relwidth=1, relheight=1)
-
+#modify the location of apps as per YOUR PC if you plan to use my code. :)
     exe_info = [
        
         (r'C:\Program Files\Unity Hub\UNITY.exe', 'UNITY'),
