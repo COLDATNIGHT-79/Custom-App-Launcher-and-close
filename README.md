@@ -38,14 +38,3 @@ I was constantly struggling to manage multiple applications, which was affecting
 ## Effecient Multitasking at Your Fingertips
 
 The **cold's app launcher** is more than just an app launcher; it's your personal command center for managing your digital tools. By streamlining app access and organization, it empowers you to **multitask more efficiently**, boost your productivity, and enjoy a cleaner, more focused computing experience.
-
----
-
-**Images:**
-
-*   **feature\_overview.png:**  Should showcase the main application window, highlighting the search bar, category tabs (e.g., "Favorites," "Games," "Productivity"), and app buttons within a category.
-*   **app\_settings.png:** Should display the "Settings" dialog for an application, clearly showing the options for "Icon Path" and "Shortcut."
-
-**Note:**  Make sure to place `feature_overview.png` and `app_settings.png` in the same directory as your `README.md` file for the image links to work correctly in Markdown viewers.
-
----
