@@ -2,7 +2,7 @@
 
 ![Feature Overview](get.png)
 
-I was constantly struggling to manage multiple applications, which was affecting my productivity. To optimize my workflow, I created the **Modern App Manager**. This tool has become my central hub for launching, organizing, and managing applications efficiently. Now, I'm sharing it with you to help streamline your workflow and boost your productivity. Say goodbye to cluttered desktops and endless searching through menus!
+I was constantly struggling to manage multiple applications, which was affecting my productivity. To optimize my workflow, I created the **cold's app launcher**. This tool has become my central hub for launching, organizing, and managing applications efficiently. Now, I'm sharing it with you to help streamline your workflow and boost your productivity. Say goodbye to cluttered desktops and endless searching through menus!
 
 ## Key Features for Enhanced Productivity:
 
@@ -14,7 +14,7 @@ I was constantly struggling to manage multiple applications, which was affecting
 
 ![App Settings](set.png)
 
-## Why Choose Modern App Manager?
+## Why Choose cold's app launcher?
 
 *   **Efficiency:** Launch applications faster and switch between tasks seamlessly, saving you valuable time.
 *   **Organization:** Keep your digital workspace clean and organized, reducing distractions and improving focus.
@@ -37,7 +37,7 @@ I was constantly struggling to manage multiple applications, which was affecting
 
 ## Effecient Multitasking at Your Fingertips
 
-The **Modern App Manager** is more than just an app launcher; it's your personal command center for managing your digital tools. By streamlining app access and organization, it empowers you to **multitask more efficiently**, boost your productivity, and enjoy a cleaner, more focused computing experience.
+The **cold's app launcher** is more than just an app launcher; it's your personal command center for managing your digital tools. By streamlining app access and organization, it empowers you to **multitask more efficiently**, boost your productivity, and enjoy a cleaner, more focused computing experience.
 
 ---
 
