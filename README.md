@@ -1,8 +1,8 @@
-# Modern App Manager - Boost Your Multitasking Efficiency
+# cold's app launcher - Boost Your Multitasking Efficiency
 
 ![Feature Overview](get.png)
 
-In today's fast-paced digital world, multitasking is key to productivity. The **Modern App Manager** is designed to streamline your workflow by providing a central hub to launch, organize, and manage your applications efficiently. Say goodbye to cluttered desktops and endless searching through menus!
+I was constantly struggling to manage multiple applications, which was affecting my productivity. To optimize my workflow, I created the **Modern App Manager**. This tool has become my central hub for launching, organizing, and managing applications efficiently. Now, I'm sharing it with you to help streamline your workflow and boost your productivity. Say goodbye to cluttered desktops and endless searching through menus!
 
 ## Key Features for Enhanced Productivity:
 
